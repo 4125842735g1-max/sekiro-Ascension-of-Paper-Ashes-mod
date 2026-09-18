@@ -13,6 +13,7 @@ Sekiro: Shadows Die Twice - Ascension of Paper Ashes
 > 本MOD是非官方粉丝自制项目，与FromSoftware无任何关联。项目内不含游戏本体提取资源，需要拥有正版《只狼：影逝二度》才可游玩。
 > ⚠️ 特别提醒
 > 本mod未对其他mod进行适配，若不兼容还请谅解。
+> 💡 此文字为提示：由于作者语言能力不足，目前文案仅仅适配中文，还请谅解。
 
 ## 🧩 前置依赖
 - ModEngine2（MOD运行必需）
@@ -26,14 +27,13 @@ Sekiro: Shadows Die Twice - Ascension of Paper Ashes
 > 💡 注意：和其他修改道具、BUFF、物品文本的MOD会发生冲突，请不要同时加载多个同类修改MOD。
 
 ## 🎮 推荐游玩思路
-本MOD设计理念为**代价换取力量**，大部分强力「降临」BUFF需要消耗大量纸人，部分能力会附带高额负面代价，不建议全程常驻BUFF通关。
-
+本MOD设计理念为**代价换取力量**，大部分强力「降临」BUFF需要消耗大量纸人，部分能力会附带负面代价，建议策略使用。
 - 🗡️ 战术抉择：面对精英与BOSS时，根据战斗风格选择对应的降临能力，权衡纸人消耗与自身生存代价。
 - ⚗️ 资源管理：纸人、红色纸人是关键战略资源，谨慎使用纸人漂流透支体力换取纸人。
-- 🧪 伤药葫芦已经变为搏命底牌：虽然瞬间回满体力，但后续会持续流失体力并且禁止使用药品，请勿残血随意使用。
-- 🥷 尝试潜袭玩法：月影降临适合暗杀与绕后，但开启后血量极低，被发现会极度危险。
+- 🧪 伤药葫芦已经变为搏命底牌：虽然瞬间回满体力，但后续会持续流失体力并且禁止使用药品
+- 🥷 尝试潜袭玩法：月影降临适合暗杀与绕后
 
-> 本MOD不适合无脑常驻增益碾压敌人，建议保留原版游戏的战斗节奏体验。
+> 本MOD适合喜欢拼刀，但并不能做到完全无伤，该mod能让你在不断弹开攻击回血，还有实用道具修改，可以让你体验上buff用道具的爽感，有增益有负面，足够决策
 
 ## ✨ MOD改动详情
 ### 降临系列BUFF（糖类道具未修改）
@@ -101,39 +101,40 @@ Sekiro: Shadows Die Twice - Ascension of Paper Ashes
 <summary>🇺🇸 English / 英文（点击展开）</summary>
 
 ## 📖 Introduction
-This mod tweaks some prosthetic tools, items and buff effects, adding and adjusting multiple "Ascension" buffs.
-Some in‑game item descriptions are edited to match the modified mechanics.
-> **Sugar items are unchanged.**
-**Only listed values and texts are changed; all unmentioned content keeps vanilla game settings.**
+This mod tweaks some prosthetic tools, items and buff effects, adding and adjusting multiple "Ascension"‑type powerful buffs.
+Partial in‑game item descriptions are edited to match modified in‑game behaviours.
+> **Sugar items remain unchanged.**
+**Only listed values and texts are modified. All unmentioned content keeps vanilla game settings.**
 
 > ⚠️ Disclaimer
 > This is an unofficial fan‑made project, not affiliated with FromSoftware. No extracted game assets are included. A legitimate copy of *Sekiro: Shadows Die Twice* is required.
 > ⚠️ Notice
-> This mod is not adapted for other mods. Compatibility issues may occur, please understand.
+> This mod is not adapted for other mods. Compatibility conflicts may occur, please understand.
+> 💡 Note: Due to the author's limited language proficiency, in‑game item texts are only available in Chinese at present, thank you for your understanding.
 
 ## 🧩 Requirements
-- ModEngine2 (Required for mod to work)
+- ModEngine2 (Mandatory for mod to run)
 - Legitimate copy of *Sekiro: Shadows Die Twice*
 
 ## 📦 Installation
-1. Install and set up ModEngine2 first.
+1. Install and configure ModEngine2 beforehand.
 2. Copy the `mod` folder from this mod into your game root directory.
-3. Launch the game via ModEngine2, the mod will take effect.
+3. Launch the game through ModEngine2 for the mod to take effect.
 
-> 💡 Note: Conflicts will happen with other mods that edit items, buffs or item texts. Do not load multiple similar mods at the same time.
+> 💡 Note: Conflicts will occur with other mods altering items, buffs or item texts. Do not load multiple similar mods simultaneously.
 
 ## 🎮 Suggested Playstyle
-This mod follows the design philosophy of **power at a cost**. Most powerful "Ascension" buffs cost large amounts of Spirit Emblems, and some come with severe self‑debuffs. It is not recommended to keep buffs active throughout the whole playthrough.
+This mod follows the core philosophy of **power comes with a cost**. Most powerful "Ascension" buffs cost large quantities of Spirit Emblems, and several abilities carry heavy self‑debuffs. Strategic usage is highly recommended.
 
-- 🗡️ Tactical choices: Pick suitable Ascension buffs for bosses / mini‑bosses, trade spirit emblems for power with caution.
-- ⚗️ Resource management: Spirit emblems and Red Spirit Emblems are vital resources. Think twice before using Spirit Emblem Drift to sacrifice vitality.
-- 🧪 The Healing Gourd is now a high‑risk trump card. Although it fully restores vitality, it drains vitality afterwards and blocks healing items. Do not spam it at low health.
-- 🥷 Stealth play: Moonveil Ascension works great for stealth and backstabs, yet you become extremely vulnerable once detected.
+- 🗡️ Tactical choices: Pick suitable Ascension buffs for bosses and mini‑bosses. Weigh Spirit Emblem cost against personal survival trade‑offs.
+- ⚗️ Resource management: Spirit Emblems and Red Spirit Emblems are critical resources. Think carefully before using Spirit Emblem Drift to sacrifice vitality.
+- 🧪 The Healing Gourd acts as a high‑risk trump card. Though it fully restores vitality instantly, it will drain vitality afterwards and blocks healing item usage.
+- 🥷 Stealth potential: Moonveil Ascension excels at stealth and backstab gameplay.
 
-> This mod is not designed for mindless faceroll gameplay. It is recommended to keep Sekiro’s original combat pacing.
+> This mod rewards deflection‑focused combat and cannot grant complete invincibility. It delivers satisfying buff‑and‑item gameplay with meaningful pros and cons that demand player decision‑making.
 
 ## ✨ Mod Changes
-### Ascension Series Buffs (Sugar items remain vanilla)
+### Ascension Series Buffs (Sugar items are untouched)
 #### Attack Ascension
 - Spirit Emblem Cost: 16
 - Duration: 60s
@@ -156,7 +157,7 @@ This mod follows the design philosophy of **power at a cost**. Most powerful "As
 
 #### Moonveil Ascension
 - Spirit Emblem Cost: 16
-- Lose 80% HP on activation
+- Lose 80% HP upon activation
 - Duration: 180s
 - Enemy Alert Build‑up Rate: 0.1
 - Enemy Detection Range Reduction: 90%
@@ -170,20 +171,20 @@ This mod follows the design philosophy of **power at a cost**. Most powerful "As
 - Posture Damage Multiplier: 2
 
 ### Other Item & Mechanic Changes
-- **Falling Snow**：Duration: 180s
-- **Lower Carp**：Added vitality restoration effect
-- **Vitality Breath**：Restores full vitality instantly
-- **Treasure Carp Coin Purse**：Permanent effect after use, multiplier: 4
-- **Spirit Balloon**：Max HP multiplier:1.2, regenerate 1 vitality every 0.5s
+- **Falling Snow**: Duration: 180s
+- **Lower Carp**: Added vitality restoration effect
+- **Vitality Breath**: Instantly restores full vitality
+- **Mibu Balloon of Wealth**: Permanent effect after consumption, multiplier: 4
+- **Mibu Balloon of Spirit**: Max HP multiplier:1.2, regenerate 1 vitality every 0.5s
 - **Spirit Emblem Drift**
   - Consume 25% vitality, gain 8 Red Spirit Emblems, usable 5 times
-  - After depletion: consume 65% vitality for unlimited uses, gain only 5 spirit emblems per use
-- **Return to Idol**：Animation replaced with Snap Seed animation
-- **Healing Gourd**：Fully restores vitality, drains 1% vitality every 0.5s for 30s; no status buildup for 30s; cannot use healing items while active
-- **Red Spirit Emblem**：Max capacity set to 16
+  - After depletion: consume 65% vitality for unlimited uses; yields only 5 Spirit Emblems each activation
+- **Return to Idol**: Animation replaced with Snap Seed animation
+- **Healing Gourd**: Fully restores vitality, drains 1% vitality every 0.5s over 30s; blocks status buildup for 30s; healing items prohibited while active
+- **Red Spirit Emblem**: Maximum storage capacity set to 16
 
 ### 📄 Item Text Modifications
-> Some in‑game item descriptions are adjusted to match modified buffs and numerical behaviors.
+> Selected in‑game item descriptions are adjusted to align with actual modified buffs and numerical behaviours.
 
 ## 📝 Version Info
 - Modifications: Buff values, item mechanics, partial item description texts
